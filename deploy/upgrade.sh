@@ -1,6 +1,7 @@
 #!/bin/bash
 #file name: upgrade.sh
 #系统升级脚本
+#格包格式必须为 name.{版本号}.{版本号}.{版本号}.tbz
 #example:
 #  weixin.6.7.2.tbz
 #  $ sh upgrade.sh weix
